@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/dbcli/athenacli/commit/b1b18c4f16521b61a4b02f32c88a656bf5797e84",
       "git:hexsha": "b1b18c4f16521b61a4b02f32c88a656bf5797e84",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.7.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.7.0",
+      "repolex:parsedAt": "2026-10-18T05:12:17.614663+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dbcli/athenacli/commit/afaed58848ccf80528436517d0841716195f83ac",
